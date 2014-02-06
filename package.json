@@ -42,7 +42,7 @@
     "wrench": "~1.3.9",
     "styledocco": "0.6.4",
     "less": "1.x.x",
-    "kss": "~0.3.6",
+    "kss": "git://github.com/HAKASHUN/kss-node",
     "stylus": "~0.38.0"
   },
   "keywords": [
